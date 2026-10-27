@@ -1,6 +1,7 @@
 # 4-Channel-Power-Supply
 Single output power supply to four outputs 
 
+This project is the first step in creating a smart-watch with the features i use the most but with higher battery life.
 
 The objective of the project is to take a single output power supply and create an adapter that generates four different output voltages.
 
